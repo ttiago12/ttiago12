@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá Bem Vindo(a) ao meu GitHub 👋
+
+- 🔭 Aualmente trabalho com Analista de Suporte Técnico.
 
 <!--
 **ttiago12/ttiago12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
