@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ttiago12&show_icons=true&theme=solarized-dark_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttiago12&layout=compact&langs_count=7&theme=dark"/>
     
-    ![Snake animation](https://github.com/ttiago12/ttiago12/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
 <!--
 **ttiago12/ttiago12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
