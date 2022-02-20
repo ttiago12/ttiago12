@@ -1,6 +1,6 @@
 ### Olá Bem Vindo(a) ao meu GitHub 👋
 
-- 🖥️ Aualmente trabalho com Analista de Suporte Técnico.
+- 🖥️ Atualmente trabalho com Analista de Suporte Técnico.
 ![image](https://user-images.githubusercontent.com/74989635/154867243-1948fab2-394a-44cc-a73d-50e4d4e61af1.png)
 
 <!--
