@@ -1,6 +1,6 @@
 ### Olá Bem Vindo(a) ao meu GitHub 👋
 
-- 🖥️ Atualmente trabalho com Analista de Suporte Técnico.
+- 🖥️ 
 
 
 <div align="center">
